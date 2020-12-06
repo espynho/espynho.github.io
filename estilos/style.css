@@ -1,7 +1,7 @@
 html {
     font-size: 10px;
     font-family: 'JetBrains Mono', monospace;
-    background-color: #00539F;
+    background-color: #8a2727;
 }
 
 h1 {
@@ -9,12 +9,12 @@ h1 {
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: #00539f;
+    color: #8a2727;
     text-shadow: 3px 3px 1px black;
 }
 
 h4 {
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -27,7 +27,7 @@ p, li {
 body {
 width: 600px; 
 margin: 0 auto;
-background-color: #FF9500;
+background-color: #cab570;
 padding: 0 20px 20px 20px;
 border: 5px solid black;
 }
