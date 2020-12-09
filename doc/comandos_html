@@ -1,0 +1,56 @@
+negrito
+	<strong></strong> reconhecido por leitores de tela
+italico/enfase
+	<em></em> reconhecido por leitores de tela
+listas sem ordem
+	<ul> cada linha dentro de <li> </li> </ul>
+listas ordenadas
+	<ol><li> </li> </ol>
+link
+	<a></a>
+	<a href="url">link</a> href == Hypertext Reference ou target
+link para lugar especifico da pagina
+	usar o id para marcar o lugar/ item
+	<h1 id="link1">Link 1</h1>
+	link para o lugar especifico
+	<a href="pagina.html#link1>link1</a> outra pagina
+	<a href="#link1">link1</a> mesma pagina
+link de download
+	<a href="www.baixar.com/" download="meuarquivo.exe">
+link para email com correspondente definido
+	<a href="mailto:meuemail@meu.com">mandar email</a>
+link para mais de um email com correspondentes definidos
+	<a href="mailto:meuemail@meu.com, meuemail2@meu.com">mandar email</a>
+link para email com correspondente indefinido
+	<a href="mailto:">mandar email</a> esse não funcionou
+lista de descrição
+	<dl>inicio da lista
+	<dt>titulo do item</dt>
+	<dd>descrição do item</dd>
+	</dl>fim da lista
+abreviação + descrição
+	<abbr> title="Descrição">texto</abbr>
+descrição endereço
+	<address>endereço do autor</address>
+Sobrescrito e subscrito
+	sobre <sup></sup>
+	sub   <sub></sub>
+códigos de computador
+	<code>: Para marcar partes genéricas de código de computador.
+	<pre>: Para reter espaço em branco (geralmente blocos de código) — se você usar recuo ou espaço em branco em excesso no seu texto, os navegadores o ignorarão e você não o verá na sua página renderizada. Se você envolver o texto nas tags <pre></pre> seu espaço em branco será renderizado de forma idêntica à maneira como você o vê no seu editor de texto.
+	<var>: Para marcar especificamente nomes de variáveis.
+	<kbd>: Para marcar a entrada do teclado (e outros tipos) inserida no computador.
+	<samp>: Para marcar a saída de um programa de computador.
+data
+	<time datetime="2016-01-20">20 January 2016</time>
+layout
+	cabeçalho: <header>.
+	barra de navegação: <nav>.
+	conteúdo principal: <main>, com várias subseções de conteúdo representadas por <article>, <section>, e elementos <div>.
+	rodapé: <footer>.
+quebra de linha
+	<br>
+linha horizontal
+	<hr>
+	
+
